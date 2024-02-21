@@ -23,10 +23,6 @@ The data underwent cleaning and preprocessing to ensure accuracy and consistency
 ### Product Affinities
 - Associations between frequently bought together items were explored, offering opportunities for targeted bundling or cross-selling strategies.
 
-# Sales Data Analysis
-
-## Overview
-This project focuses on analyzing sales data to derive insights and make data-driven decisions. It involves cleaning, transforming, and visualizing the data to uncover patterns, trends, and correlations.
 
 ## Technology Stack and Libraries Used
 
