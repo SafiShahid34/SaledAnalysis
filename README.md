@@ -1,5 +1,10 @@
 # Data Analysis Report: Sales Data Insights
 
+
+# Open IMPORTANT.ipynb for the data visualization and code
+
+
+
 ## Overview
 This report analyzes sales data to uncover valuable insights for business decision-making. The dataset includes information on product sales, quantities ordered, prices, order dates, and purchase locations.
 
